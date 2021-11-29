@@ -2,13 +2,13 @@
 ### <div align="center">I'm Kevin Andrade, a backend development student 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on -  
+- 🔭 I’m currently working on [Sorting Visualizer](https://github.com/Kvble/sorting-visualizer)
   
 
 - 🌱 I’m currently learning -  
   
 
-- ❓ Ask me about anything related to -  
+- ❓ Ask me about anything related to esports or videogames 
   
 
 - ⚡ Fun fact: I use tabs over spaces  
