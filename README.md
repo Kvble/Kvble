@@ -21,7 +21,7 @@
 <table><tr><td valign="top" width="50%">
 
 ### Frontend  
-<div align="center">  
+<div align="center" style="margin: 20px">  
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift" height="50" />  
@@ -30,7 +30,7 @@
 </td><td valign="top" width="50%">
 
 ### Backend  
-<div align="center" style="margin: 10px">  
+<div align="center" style="margin: 20px">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /> 
