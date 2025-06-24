@@ -1,5 +1,5 @@
 
-### <div align="center">I'm Kevin Andrade, a .NET Developer 👨‍💻</div>  
+### <div align="center">I'm Kevin Andrade, an AI Software Engineer 👨‍💻</div>  
   
 
 - 🔭 I’m currently working on [Portfolio](https://github.com/Kvble/portfolio)
