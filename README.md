@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on [Portfolio](https://github.com/Kvble/portfolio)
   
 
-- 🌱 I’m currently learning [Python](https://pythoninstitute.org/pcap)
+- 🌱 I’m currently learning Data Science
   
 
 - ❓ Ask me about anything related to Backend or Investments 
